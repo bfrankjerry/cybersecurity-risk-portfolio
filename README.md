@@ -1,5 +1,5 @@
-# security-risk-portfolio
-Security Risk Portfolio
+# cybersecurity-risk-portfolio
+Cybersecurity Risk Portfolio
 
 This repository demonstrates practical cybersecurity and technology risk analysis using retrospective assessments of real implementation scenarios.
 
